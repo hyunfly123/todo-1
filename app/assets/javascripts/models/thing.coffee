@@ -1,0 +1,1 @@
+class Todo.Thing extends Backbone.Model
